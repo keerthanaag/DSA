@@ -32,11 +32,11 @@ https://basillica.medium.com/working-with-queues-in-python-a-complete-guide-aa11
 ## Tasks for January 2025
 1. learn the basics of queue (jan 1 and 2)
 2. Implementation of queue using list (3)
-3. Implementation of queue using collections.deque (4,5)
-4. Implementation of queue using Queue (6,7)
-5. Implementation of queue using LifoQueue (8,9)
-6. Implementation of queue using PriorityQueue (10,11)
-7. Learn about types of queue , circular queue (12)
-8. Implementation of circular queue (13,14)
-9. revise the above topics (15)
+3. Implementation of queue using collections.deque (4,6)
+4. Implementation of queue using Queue (7,8)
+5. Implementation of queue using LifoQueue (9,10)
+6. Implementation of queue using PriorityQueue (11,13)
+7. Learn about types of queue , circular queue (14)
+8. Implementation of circular queue (15,16)
+9. revise the above topics (17)
 10. Solve the problems related to queue
