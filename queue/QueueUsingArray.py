@@ -35,7 +35,7 @@ class queue:
         if self.rear == self.front:
             print("Queue is EMPTY")
         else:
-            print(f"The Peak value is {self.lstqueue[self.rear]}")
+            print(f"The Peak value is {self.lstqueue[self.front]}")
     def display(self):
         print(self.lstqueue[self.front:])
 obj = queue(10)
