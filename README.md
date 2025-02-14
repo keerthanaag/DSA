@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=zwb3GmNAtFk&ab_channel=codebasics
 9. revise the above topics (21)
 10. Solve the problems related to queue
 ## Tasks for February 2025
-1. learn the basics of queue (14,15)
+1. learn the basics of Linked list (14,15)
 2. Types of linked list(17)
 3. single linked list(18,19)
 4. doubly linked list(20,21)
