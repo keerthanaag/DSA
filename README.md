@@ -31,13 +31,12 @@ https://www.youtube.com/watch?v=zwb3GmNAtFk&ab_channel=codebasics
 9. revise the above topics (21)
 10. Solve the problems related to queue
 ## Tasks for February 2025
-1. learn the basics of queue (4,5)
-2. Types of linked list(6)
-3. single linked list(7,8)
-4. doubly linked list(10,11)
-5. circular linked list(12,13)
-6. doubly circular linked list(14,15)
-7. Implement stack using linked list(17,18)
-8. Implement queue using linked list(19,20)
-9. Revise the content and solve problems(21...28) 
+1. learn the basics of queue (14,15)
+2. Types of linked list(17)
+3. single linked list(18,19)
+4. doubly linked list(20,21)
+5. circular linked list(22,24)
+6. doubly circular linked list(25,26)
+7. Implement stack using linked list(27)
+8. Implement queue using linked list(28)
 
